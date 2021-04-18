@@ -1,0 +1,33 @@
+.main_outer_box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 640px;
+    width: 640px;
+    margin-left: 24%;
+    margin-top: 2%;
+    border: 2.4px solid black;
+    
+    
+}
+
+.contains_8_box_in_row{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    
+}
+
+.white_box{
+    display: flex;
+    background-color: white;
+    height: 80px;
+    width: 80px;
+}
+
+.black_box{
+    display: flex;
+    background-color:black;
+    height: 80px;
+    width: 80px;
+}
